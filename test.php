@@ -6,8 +6,8 @@
 class ClassName extends AnotherClass
 {
 	
-	function __construct(argument)
+	function __construct()
 	{
-		
+		weixin
 	}
 }
