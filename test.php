@@ -26,4 +26,8 @@ class ClassName implements AnotherClass{
 	public function __unset($key){
 
 	}
+	public function __get($key)
+	{
+		
+	}
 }
